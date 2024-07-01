@@ -1,0 +1,902 @@
+[
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-09 Security-only update - KB4038786",
+            "id": "4038786",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4038786",
+            "publish_date": "2017-09-12T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-08 Preview of Monthly Rollup - KB4034659",
+            "id": "4034659",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4034659",
+            "publish_date": "2017-08-15T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-08 Monthly Rollup - KB4034665",
+            "id": "4034665",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4034665",
+            "publish_date": "2017-08-08T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-08 Security-only update - KB4034666",
+            "id": "4034666",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4034666",
+            "publish_date": "2017-08-08T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-07 Preview of Monthly Rollup - KB4025332",
+            "id": "4025332",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4025332",
+            "publish_date": "2017-07-18T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-07 Monthly Rollup - KB4025331",
+            "id": "4025331",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4025331",
+            "publish_date": "2017-07-11T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-07 Security-only update - KB4025343",
+            "id": "4025343",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4025343",
+            "publish_date": "2017-07-11T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-06 Preview of Monthly Rollup - KB4022721",
+            "id": "4022721",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4022721",
+            "publish_date": "2017-06-27T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-06 Monthly Rollup - KB4022724",
+            "id": "4022724",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4022724",
+            "publish_date": "2017-06-13T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-06 Security-only update - KB4022718",
+            "id": "4022718",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4022718",
+            "publish_date": "2017-06-13T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-05 Preview of Monthly Rollup - KB4019218",
+            "id": "4019218",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4019218",
+            "publish_date": "2017-05-16T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-05 Monthly Rollup - KB4019216",
+            "id": "4019216",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4019216",
+            "publish_date": "2017-05-09T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-05 Security-only update - KB4019214",
+            "id": "4019214",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4019214",
+            "publish_date": "2017-05-09T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-04 Preview of Monthly Rollup - KB4015554",
+            "id": "4015554",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4015554",
+            "publish_date": "2017-04-18T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-04 Monthly Rollup - KB4015551",
+            "id": "4015551",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4015551",
+            "publish_date": "2017-04-11T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-04 Security-only update - KB4015548",
+            "id": "4015548",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4015548",
+            "publish_date": "2017-04-11T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-03 Preview of Monthly Rollup - KB4012220",
+            "id": "4016783",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4016783",
+            "publish_date": "2017-03-21T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-03 Monthly Rollup - KB4012217",
+            "id": "4009974",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009974",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-03 Security-only update - KB4012214",
+            "id": "4009973",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009973",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2016-12 Monthly Rollup - KB3205409",
+            "id": "4009452",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009452",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2016-12 Security-only update - KB3205408",
+            "id": "4009453",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009453",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2016-11 Preview of Monthly Rollup - KB3197878",
+            "id": "4009454",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009454",
+            "publish_date": "2016-11-15T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2016-11 Security-only update - KB3197876",
+            "id": "4009455",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009455",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2016-11 Monthly Rollup - KB3197877",
+            "id": "4009456",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009456",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2016-10 Preview of Monthly Rollup - KB 3192406",
+            "id": "4009457",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009457",
+            "publish_date": "2016-10-18T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2016-10 Security-only update - KB3192393",
+            "id": "4009458",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009458",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2016-10 Monthly Rollup - KB3185332",
+            "id": "4009459",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009459",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2016-09 - KB3185280",
+            "id": "4009460",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009460",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2016-08 - KB3179575",
+            "id": "4009461",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009461",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2016-07 - KB3172615",
+            "id": "4009462",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009462",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1",
+            "id": "4009469",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009469",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-08 Preview of Monthly Rollup - KB4343894",
+            "id": "4343894",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4343894",
+            "publish_date": "2018-08-30T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-08 Monthly Rollup - KB4343900",
+            "id": "4343900",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4343900",
+            "publish_date": "2018-08-14T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-08 Security-only update - KB4343899",
+            "id": "4343899",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4343899",
+            "publish_date": "2018-08-14T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-07 Preview of Monthly Rollup - KB4338821",
+            "id": "4338821",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338821",
+            "publish_date": "2018-07-24T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-07 Monthly Rollup - KB4338818",
+            "id": "4338818",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338818",
+            "publish_date": "2018-07-18T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-07 Security-only update - KB4338823",
+            "id": "4338823",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338823",
+            "publish_date": "2018-07-17T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-06 Preview of Monthly Rollup - KB4284842",
+            "id": "4284842",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284842",
+            "publish_date": "2018-06-21T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-06 Monthly Rollup - KB4284826",
+            "id": "4284826",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284826",
+            "publish_date": "2018-06-12T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-06 Security-only update - KB4284867",
+            "id": "4284867",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284867",
+            "publish_date": "2018-06-12T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-05 Preview of Monthly Rollup - KB4103713",
+            "id": "4103713",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103713",
+            "publish_date": "2018-05-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-05 Monthly Rollup - KB4103718",
+            "id": "4103718",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103718",
+            "publish_date": "2018-05-08T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-05 Security-only update - KB4103712",
+            "id": "4103712",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103712",
+            "publish_date": "2018-05-08T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-04 Preview of Monthly Rollup - KB4093113",
+            "id": "4093113",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093113",
+            "publish_date": "2018-04-23T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-04 Monthly Rollup - KB4093118",
+            "id": "4093118",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093118",
+            "publish_date": "2018-04-23T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-04 Security-only update - KB4093108",
+            "id": "4093108",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093108",
+            "publish_date": "2018-04-10T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-03 Preview of Monthly Rollup - KB4088881",
+            "id": "4088881",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088881",
+            "publish_date": "2018-04-04T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-03 Monthly Rollup - KB4088875",
+            "id": "4088875",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088875",
+            "publish_date": "2018-04-04T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-03 Security-only update - KB4088878",
+            "id": "4088878",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088878",
+            "publish_date": "2018-04-04T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-02 Preview of Monthly Rollup - KB4075211",
+            "id": "4075211",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4075211",
+            "publish_date": "2018-02-22T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-02 Monthly Rollup - KB4074598",
+            "id": "4074598",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4074598",
+            "publish_date": "2018-02-13T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-02 Security-only update - KB4074587",
+            "id": "4074587",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4074587",
+            "publish_date": "2018-02-13T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-01 Preview of Monthly Rollup - KB4057400",
+            "id": "4057400",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4057400",
+            "publish_date": "2018-01-19T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-01 Monthly Rollup - KB4056894",
+            "id": "4056894",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4056894",
+            "publish_date": "2018-01-09T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2018-01 Security-only update - KB4056897",
+            "id": "4056897",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4056897",
+            "publish_date": "2018-01-04T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-12 Monthly Rollup - KB4054518",
+            "id": "4054518",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4054518",
+            "publish_date": "2017-12-12T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-12 Security-only update - KB4054521",
+            "id": "4054521",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4054521",
+            "publish_date": "2017-12-12T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-11 Preview of Monthly Rollup - KB4051034",
+            "id": "4051034",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4051034",
+            "publish_date": "2017-11-27T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-11 Monthly Rollup - KB4048957",
+            "id": "4048957",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4048957",
+            "publish_date": "2017-11-14T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-11 Security-only update - KB4048960",
+            "id": "4048960",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4048960",
+            "publish_date": "2017-11-14T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-10 Preview of Monthly Rollup - KB4041686",
+            "id": "4041686",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4041686",
+            "publish_date": "2017-10-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-10 Monthly Rollup - KB4041681",
+            "id": "4041681",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4041681",
+            "publish_date": "2017-10-10T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-10 Security-only update - KB4041678",
+            "id": "4041678",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4041678",
+            "publish_date": "2017-10-10T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-09 Preview of Monthly Rollup - KB4038803",
+            "id": "4038803",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4038803",
+            "publish_date": "2017-09-19T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-09 Monthly Rollup - KB4038777",
+            "id": "4038777",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4038777",
+            "publish_date": "2017-09-12T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-09 Security-only update - KB4038779",
+            "id": "4038779",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4038779",
+            "publish_date": "2017-09-12T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-08 Preview of Monthly Rollup - KB4034670",
+            "id": "4034670",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4034670",
+            "publish_date": "2017-08-15T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-08 Monthly Rollup - KB4034664",
+            "id": "4034664",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4034664",
+            "publish_date": "2017-08-08T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-08 Security-only update - KB4034679",
+            "id": "4034679",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4034679",
+            "publish_date": "2017-08-08T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-07 Preview of Monthly Rollup - KB4025340",
+            "id": "4025340",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4025340",
+            "publish_date": "2017-07-18T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-07 Monthly Rollup - KB4025341",
+            "id": "4025341",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4025341",
+            "publish_date": "2017-07-11T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-07 Security-only update - KB4025337",
+            "id": "4025337",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4025337",
+            "publish_date": "2017-07-11T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-06 Preview of Monthly Rollup - KB4022168",
+            "id": "4022168",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4022168",
+            "publish_date": "2017-06-27T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-06 Monthly Rollup - KB4022719",
+            "id": "4022719",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4022719",
+            "publish_date": "2017-06-13T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-06 Security-only update - KB4022722",
+            "id": "4022722",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4022722",
+            "publish_date": "2017-06-13T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-05 Preview of Monthly Rollup - KB4019265",
+            "id": "4019265",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4019265",
+            "publish_date": "2017-05-16T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-05 Monthly Rollup - KB4019264",
+            "id": "4019264",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4019264",
+            "publish_date": "2017-05-09T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-05 Security-only update - KB4019263",
+            "id": "4019263",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4019263",
+            "publish_date": "2017-05-09T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-04 Preview of Monthly Rollup - KB4015552",
+            "id": "4015552",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4015552",
+            "publish_date": "2017-04-18T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-04 Security-only update - KB4015546",
+            "id": "4015546",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4015546",
+            "publish_date": "2017-04-11T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-04 Monthly Rollup - KB4015549",
+            "id": "4015549",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4015549",
+            "publish_date": "2017-04-11T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-03 Preview of Monthly Rollup - KB4012218",
+            "id": "4016780",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4016780",
+            "publish_date": "2017-03-21T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-03 Monthly Rollup - KB4012215",
+            "id": "4011466",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4011466",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-03 Security-only Update - KB 4012212",
+            "id": "4009975",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009975",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-01 Monthly Rollup - KB3212646",
+            "id": "4009971",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009971",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2017-01 Security-only update - KB3212642",
+            "id": "4009972",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009972",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2016-12 Monthly Rollup - KB3207752",
+            "id": "4009409",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009409",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2016-12 Security-only update - KB3205394",
+            "id": "4009431",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009431",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2016-11 Preview of Monthly Rollup - KB3197869",
+            "id": "4009432",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009432",
+            "publish_date": "2016-11-15T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2016-11 Security-only update - KB3197867",
+            "id": "4009433",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009433",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2016-11 Monthly Rollup - KB3197868",
+            "id": "4009434",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009434",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2016-10 Preview of Monthly Rollup - KB3192403",
+            "id": "4009435",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009435",
+            "publish_date": "2016-10-18T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2016-10 Security only update - KB3192391",
+            "id": "4009436",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009436",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2016-10 Monthly rollup - KB3185330",
+            "id": "4009437",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009437",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2016-09 - KB3185278",
+            "id": "4009438",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009438",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2016-08 - KB3179573",
+            "id": "4009439",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009439",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 7 SP1 and Windows Server 2008 R2 SP1 2016-07 - KB3172605",
+            "id": "4009440",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009440",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 Windows 10, version 2004 and Windows Server, version 2004 update history",
+            "id": "4555932",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4555932",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 Windows 10, version 1909 and Windows Server, version 1909 update history",
+            "id": "4529964",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4529964",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 Windows 10, version 1903 and Windows Server, version 1903 update history",
+            "id": "4498140",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4498140",
+            "publish_date": "",
+            "type": ""
+        }
+    }
+]

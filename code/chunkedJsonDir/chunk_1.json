@@ -1,0 +1,902 @@
+[
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2",
+            "id": "4009470",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009470",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-08 Preview of Monthly Rollup - KB4343891",
+            "id": "4343891",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4343891",
+            "publish_date": "2018-08-30T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-08 Monthly Rollup - KB4343898",
+            "id": "4343898",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4343898",
+            "publish_date": "2018-08-14T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-08 Security-only update - KB4343888",
+            "id": "4343888",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4343888",
+            "publish_date": "2018-08-14T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-07 Preview of Monthly Rollup - KB4338831",
+            "id": "4338831",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338831",
+            "publish_date": "2018-07-24T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-07 Monthly Rollup - KB4338815",
+            "id": "4338815",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338815",
+            "publish_date": "2018-07-18T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-07 Security-only update - KB4338824",
+            "id": "4338824",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338824",
+            "publish_date": "2018-07-17T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-06 Preview of Monthly Rollup - KB4284863",
+            "id": "4284863",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284863",
+            "publish_date": "2018-06-21T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-06 Monthly Rollup - KB4284815",
+            "id": "4284815",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284815",
+            "publish_date": "2018-06-12T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-06 Security-only update - KB4284878",
+            "id": "4284878",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284878",
+            "publish_date": "2018-06-12T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-05 Preview of Monthly Rollup - KB4103724",
+            "id": "4103724",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103724",
+            "publish_date": "2018-05-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-05 Monthly Rollup - KB4103725",
+            "id": "4103725",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103725",
+            "publish_date": "2018-05-08T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-05 Security-only update - KB4103715",
+            "id": "4103715",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103715",
+            "publish_date": "2018-05-08T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-04 Preview of Monthly Rollup - KB4093121",
+            "id": "4093121",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093121",
+            "publish_date": "2018-04-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-04 Monthly Rollup - KB4093114",
+            "id": "4093114",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093114",
+            "publish_date": "2018-04-10T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-04 Security-only update - KB4093115",
+            "id": "4093115",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093115",
+            "publish_date": "2018-04-10T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-03 Preview of Monthly Rollup - KB4088882",
+            "id": "4088882",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088882",
+            "publish_date": "2018-03-22T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-03 Monthly Rollup - KB4088876",
+            "id": "4088876",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088876",
+            "publish_date": "2018-03-13T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-03 Security-only update - KB4088879",
+            "id": "4088879",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088879",
+            "publish_date": "2018-03-13T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-02 Preview of Monthly Rollup - KB4075212",
+            "id": "4075212",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4075212",
+            "publish_date": "2018-02-22T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-02 Monthly Rollup - KB4074594",
+            "id": "4074594",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4074594",
+            "publish_date": "2018-02-13T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-02 Security-only update - KB4074597",
+            "id": "4074597",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4074597",
+            "publish_date": "2018-02-13T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-01 Preview of Monthly Rollup - KB4057401",
+            "id": "4057401",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4057401",
+            "publish_date": "2018-01-23T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-01 Monthly Rollup - KB4056895",
+            "id": "4056895",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4056895",
+            "publish_date": "2018-01-08T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2018-01 Security-only update - KB4056898",
+            "id": "4056898",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4056898",
+            "publish_date": "2018-01-05T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-12 Monthly Rollup - KB4054519",
+            "id": "4054519",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4054519",
+            "publish_date": "2017-12-12T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-12 Security-only update - KB4054522",
+            "id": "4054522",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4054522",
+            "publish_date": "2017-12-12T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-11 Preview of Monthly Rollup - KB4050946",
+            "id": "4050946",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4050946",
+            "publish_date": "2017-11-27T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-11 Monthly Rollup - KB4048958",
+            "id": "4048958",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4048958",
+            "publish_date": "2017-11-14T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-11 Security-only update - KB4048961",
+            "id": "4048961",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4048961",
+            "publish_date": "2017-11-14T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-10 Preview of Monthly Rollup - KB4041685",
+            "id": "4041685",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4041685",
+            "publish_date": "2017-10-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-10 Monthly Rollup - KB4041693",
+            "id": "4041693",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4041693",
+            "publish_date": "2017-10-10T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-10 Security-only update - KB4041687",
+            "id": "4041687",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4041687",
+            "publish_date": "2017-10-10T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-09 Preview of Monthly Rollup - KB4038774",
+            "id": "4038774",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4038774",
+            "publish_date": "2017-09-19T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-09 Monthly Rollup - KB4038792",
+            "id": "4038792",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4038792",
+            "publish_date": "2017-09-12T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-09 Security-only update - KB4038793",
+            "id": "4038793",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4038793",
+            "publish_date": "2017-09-12T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-08 Preview of Monthly Rollup - KB4034663",
+            "id": "4034663",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4034663",
+            "publish_date": "2017-08-15T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-08 Monthly Rollup - KB4034681",
+            "id": "4034681",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4034681",
+            "publish_date": "2017-08-08T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-08 Security-only update - KB4034672",
+            "id": "4034672",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4034672",
+            "publish_date": "2017-08-08T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-07 Preview of Monthly Rollup - KB4025335",
+            "id": "4025335",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4025335",
+            "publish_date": "2017-07-18T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-07 Monthly Rollup - KB4025336",
+            "id": "4025336",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4025336",
+            "publish_date": "2017-07-11T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-07 Security-only update - KB4025333",
+            "id": "4025333",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4025333",
+            "publish_date": "2017-07-11T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-06 Preview of Monthly Rollup - KB4022720",
+            "id": "4022720",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4022720",
+            "publish_date": "2017-06-27T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-06 Monthly Rollup - KB4022726",
+            "id": "4022726",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4022726",
+            "publish_date": "2017-06-13T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-06 Security-only update - KB4022717",
+            "id": "4022717",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4022717",
+            "publish_date": "2017-06-13T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-05 Preview of Monthly Rollup - KB4019217",
+            "id": "4019217",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4019217",
+            "publish_date": "2017-05-16T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-05 Monthly Rollup - KB4019215",
+            "id": "4019215",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4019215",
+            "publish_date": "2017-05-09T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-05 Security-only update - KB4019213",
+            "id": "4019213",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4019213",
+            "publish_date": "2017-05-09T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-04 Preview of Monthly Rollup - KB4015553",
+            "id": "4015553",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4015553",
+            "publish_date": "2017-04-18T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-04 Monthly Rollup - KB4015550",
+            "id": "4015550",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4015550",
+            "publish_date": "2017-04-11T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-04 Security-only update - KB4015547",
+            "id": "4015547",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4015547",
+            "publish_date": "2017-04-11T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-03 Preview of Monthly Rollup - KB4012219",
+            "id": "4016781",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4016781",
+            "publish_date": "2017-03-21T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-03 Monthly Rollup - KB4012216",
+            "id": "4009970",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009970",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2017-03 Security-only update - KB4012213",
+            "id": "4009969",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009969",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2016-12 Monthly Rollup - KB3205401",
+            "id": "4009441",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009441",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2016-12 Security-only update - KB3205400",
+            "id": "4009442",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009442",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2016-11 Preview of Monthly Rollup - KB3197875",
+            "id": "4009443",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009443",
+            "publish_date": "2016-11-15T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2016-11 Security-only update - KB3197873",
+            "id": "4009444",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009444",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2016-11 Monthly Rollup - KB3197874",
+            "id": "4009445",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009445",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2016-10 Preview of Monthly Rollup - KB3192404",
+            "id": "4009446",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009446",
+            "publish_date": "2016-10-18T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2016-10 Security-only update - KB3192392",
+            "id": "4009447",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009447",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2016-10 Monthly Rollup - KB3185331",
+            "id": "4009448",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009448",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2016-09 - KB3185279",
+            "id": "4009449",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009449",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2016-08 - KB3179574",
+            "id": "4009450",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009450",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 8.1 and Windows Server 2012 R2 2016-07 - KB3172614",
+            "id": "4009451",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009451",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012",
+            "id": "4009471",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4009471",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-08 Preview of Monthly Rollup - KB4343895",
+            "id": "4343895",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4343895",
+            "publish_date": "2018-08-30T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-08 Monthly Rollup - KB4343901",
+            "id": "4343901",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4343901",
+            "publish_date": "2018-08-14T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-08 Security-only update - KB4343896",
+            "id": "4343896",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4343896",
+            "publish_date": "2018-08-14T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-07 Preview of Monthly Rollup - KB4338816",
+            "id": "4338816",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338816",
+            "publish_date": "2018-07-24T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-07 Monthly Rollup - KB4338830",
+            "id": "4338830",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338830",
+            "publish_date": "2018-07-18T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-07 Security-only update - KB4338820",
+            "id": "4338820",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338820",
+            "publish_date": "2018-07-17T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-06 Preview of Monthly Rollup - KB4284852",
+            "id": "4284852",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284852",
+            "publish_date": "2018-06-21T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-06 Monthly Rollup - KB4284855",
+            "id": "4284855",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284855",
+            "publish_date": "2018-06-12T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-06 Security-only update - KB4284846",
+            "id": "4284846",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284846",
+            "publish_date": "2018-06-12T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-05 Preview of Monthly Rollup - KB4103719",
+            "id": "4103719",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103719",
+            "publish_date": "2018-05-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-05 Monthly Rollup - KB4103730",
+            "id": "4103730",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103730",
+            "publish_date": "2018-05-08T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-05 Security-only update - KB4103726",
+            "id": "4103726",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103726",
+            "publish_date": "2018-05-08T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-04 Preview of Monthly Rollup - KB4093116",
+            "id": "4093116",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093116",
+            "publish_date": "2018-04-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-04 Monthly Rollup - KB4093123",
+            "id": "4093123",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093123",
+            "publish_date": "2018-04-10T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-04 Security-only update - KB4093122",
+            "id": "4093122",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093122",
+            "publish_date": "2018-04-10T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-03 Preview of Monthly Rollup - KB4088883",
+            "id": "4088883",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088883",
+            "publish_date": "2018-03-22T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-03 Monthly Rollup - KB4088877",
+            "id": "4088877",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088877",
+            "publish_date": "2018-03-13T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-03 Security-only update - KB4088880",
+            "id": "4088880",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088880",
+            "publish_date": "2018-03-13T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-02 Preview of Monthly Rollup - KB4075213",
+            "id": "4075213",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4075213",
+            "publish_date": "2018-02-22T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-02 Monthly Rollup - KB4074593",
+            "id": "4074593",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4074593",
+            "publish_date": "2018-02-13T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-02 Security-only update - KB4074589",
+            "id": "4074589",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4074589",
+            "publish_date": "2018-02-13T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-01 Preview of Monthly Rollup - KB4057402",
+            "id": "4057402",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4057402",
+            "publish_date": "2018-01-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-01 Monthly Rollup - KB4056896",
+            "id": "4056896",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4056896",
+            "publish_date": "2018-01-04T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2018-01 Security-only update - KB4056899",
+            "id": "4056899",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4056899",
+            "publish_date": "2018-01-04T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-12 Monthly Rollup - KB4054520",
+            "id": "4054520",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4054520",
+            "publish_date": "2017-12-12T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-12 Security-only update - KB4054523",
+            "id": "4054523",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4054523",
+            "publish_date": "2017-12-12T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-11 Preview of Monthly Rollup - KB4050945",
+            "id": "4050945",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4050945",
+            "publish_date": "2017-11-27T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-11 Monthly Rollup - KB4048959",
+            "id": "4048959",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4048959",
+            "publish_date": "2017-11-14T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-11 Security-only update - KB4048962",
+            "id": "4048962",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4048962",
+            "publish_date": "2017-11-14T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-10 Preview of Monthly Rollup - KB4041692",
+            "id": "4041692",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4041692",
+            "publish_date": "2017-10-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-10 Monthly Rollup - KB4041690",
+            "id": "4041690",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4041690",
+            "publish_date": "2017-10-10T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-10 Security-only update - KB4041679",
+            "id": "4041679",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4041679",
+            "publish_date": "2017-10-10T00:00:00Z",
+            "type": "Unknown"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-09 Preview of Monthly Rollup - KB4038797",
+            "id": "4038797",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4038797",
+            "publish_date": "2017-09-19T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows Server 2012 2017-09 Monthly Rollup - KB4038799",
+            "id": "4038799",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4038799",
+            "publish_date": "2017-09-12T00:00:00Z",
+            "type": "Monthly Rollup"
+        }
+    }
+]

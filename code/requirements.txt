@@ -2,3 +2,4 @@ PyYAML
 pytest
 pyhamcrest
 requests
+pytest-html

@@ -1,0 +1,902 @@
+[
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 Windows 10, version 1809, Windows Server, version 1809, and Windows Server 2019 update history",
+            "id": "4464619",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4464619",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 Windows 10, version 1803 update history",
+            "id": "4099479",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4099479",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4343909 (OS Build 17134.228)",
+            "id": "4343909",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4343909",
+            "publish_date": "2018-08-14T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4340917 (OS Build 17134.191)",
+            "id": "4340917",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4340917",
+            "publish_date": "2018-07-24T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4345421 (OS Build 17134.167)",
+            "id": "4345421",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4345421",
+            "publish_date": "2018-07-16T00:00:00Z",
+            "type": "Alternate Cumulative"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4338819 (OS Build 17134.165)",
+            "id": "4338819",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338819",
+            "publish_date": "2018-07-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4284848 (OS Build 17134.137)",
+            "id": "4284848",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284848",
+            "publish_date": "2018-06-26T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4284835 (OS Build 17134.112)",
+            "id": "4284835",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284835",
+            "publish_date": "2018-06-12T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4338548 (OS Build 17134.83)",
+            "id": "4338548",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338548",
+            "publish_date": "2018-06-05T00:00:00Z",
+            "type": "Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4100403 (OS Build 17134.81)",
+            "id": "4100403",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4100403",
+            "publish_date": "2018-05-24T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4103721 (OS Build 17134.48)",
+            "id": "4103721",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103721",
+            "publish_date": "2018-05-08T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 Windows 10, version 1709 update history",
+            "id": "4043454",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4043454",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4343897 (OS Build 16299.611)",
+            "id": "4343897",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4343897",
+            "publish_date": "2018-08-14T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4346644 (OS Build 15254.527)",
+            "id": "4346644",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4346644",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4338817 (OS Build 16299.579)",
+            "id": "4338817",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338817",
+            "publish_date": "2018-07-24T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4345420 (OS Build 16299.551)",
+            "id": "4345420",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4345420",
+            "publish_date": "2018-07-16T00:00:00Z",
+            "type": "Alternate Cumulative"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4338825 (OS Build 16299.547)",
+            "id": "4338825",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338825",
+            "publish_date": "2018-07-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4341235 (OS Build 15254.490)",
+            "id": "4341235",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4341235",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4284822 (OS Build 16299.522)",
+            "id": "4284822",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284822",
+            "publish_date": "2018-06-21T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4284819 (OS Build 16299.492)",
+            "id": "4284819",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284819",
+            "publish_date": "2018-06-12T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4316692 (OS Build 15254.489)",
+            "id": "4316692",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4316692",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4103714 (OS Build 16299.461)",
+            "id": "4103714",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103714",
+            "publish_date": "2018-05-21T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4103727 (OS Build 16299.431)",
+            "id": "4103727",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103727",
+            "publish_date": "2018-05-08T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4134196 (OS Build 15254.401)",
+            "id": "4134196",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4134196",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4093105 (OS Build 16299.402)",
+            "id": "4093105",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093105",
+            "publish_date": "2018-04-23T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4093112 (OS Build 16299.371)",
+            "id": "4093112",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093112",
+            "publish_date": "2018-04-10T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4099572 (OS Build 15254.369)",
+            "id": "4099572",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4099572",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4089848 (OS Build 16299.334)",
+            "id": "4089848",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4089848",
+            "publish_date": "2018-03-22T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4088776 (OS Build 16299.309)",
+            "id": "4088776",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088776",
+            "publish_date": "2018-03-13T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4090912 (OS Build 15254.313)",
+            "id": "4090912",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4090912",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4090913 (OS Build 16299.251)",
+            "id": "4090913",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4090913",
+            "publish_date": "2018-03-05T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4074588 (OS Build 16299.248)",
+            "id": "4074588",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4074588",
+            "publish_date": "2018-02-13T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4077675 (OS Build 15254.248)",
+            "id": "4077675",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4077675",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4058258 (OS Build 16299.214)",
+            "id": "4058258",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4058258",
+            "publish_date": "2018-01-31T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4073291 (OS Build 16299.201)",
+            "id": "4073291",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4073291",
+            "publish_date": "2018-01-18T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4056892 (OS Build 16299.192)",
+            "id": "4056892",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4056892",
+            "publish_date": "2018-01-04T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4073117 (OS Build 15254.158)",
+            "id": "4073117",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4073117",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4054517 (OS Build 16299.125)",
+            "id": "4054517",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4054517",
+            "publish_date": "2017-12-12T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4056342 (OS Build 15254.124)",
+            "id": "4056342",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4056342",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4051963 (OS Build 16299.98)",
+            "id": "4051963",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4051963",
+            "publish_date": "2017-11-30T00:00:00Z",
+            "type": "Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4048955 (OS Build 16299.64)",
+            "id": "4048955",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4048955",
+            "publish_date": "2017-11-15T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4052314 (OS Build 15254.12)",
+            "id": "4052314",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4052314",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4043961 (OS Build 16299.19)",
+            "id": "4043961",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4043961",
+            "publish_date": "2017-10-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 Windows 10, version 1703 update history",
+            "id": "4018124",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4018124",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4343885 (OS Build 15063.1266)",
+            "id": "4343885",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4343885",
+            "publish_date": "2018-08-14T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4338827 (OS Build 15063.1235)",
+            "id": "4338827",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338827",
+            "publish_date": "2018-07-24T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4345419 (OS Build 15063.1209)",
+            "id": "4345419",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4345419",
+            "publish_date": "2018-07-16T00:00:00Z",
+            "type": "Alternate Cumulative"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4338826 (OS Build 15063.1206)",
+            "id": "4338826",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338826",
+            "publish_date": "2018-07-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4284830 (OS Build 15063.1182)",
+            "id": "4284830",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284830",
+            "publish_date": "2018-06-21T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4284874 (OS Build 15063.1155)",
+            "id": "4284874",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284874",
+            "publish_date": "2018-06-12T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4103722 (OS Build 15063.1112)",
+            "id": "4103722",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103722",
+            "publish_date": "2018-05-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4103731 (OS Build 15063.1088)",
+            "id": "4103731",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103731",
+            "publish_date": "2018-05-08T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4093117 (OS Build 15063.1058)",
+            "id": "4093117",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093117",
+            "publish_date": "2018-04-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4093107 (OS Build 15063.1029)",
+            "id": "4093107",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093107",
+            "publish_date": "2018-04-10T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4088891 (OS Build 15063.997)",
+            "id": "4088891",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088891",
+            "publish_date": "2018-03-22T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4088782 (OS Build 15063.966 and 15063.968)",
+            "id": "4088782",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088782",
+            "publish_date": "2018-03-13T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4092077 (OS Build 15063.936)",
+            "id": "4092077",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4092077",
+            "publish_date": "2018-03-08T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4077528 (OS Build 15063.936)",
+            "id": "4077528",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4077528",
+            "publish_date": "2018-02-22T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4074592 (OS Build 15063.909)",
+            "id": "4074592",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4074592",
+            "publish_date": "2018-02-13T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4057144 (OS Build 15063.877)",
+            "id": "4057144",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4057144",
+            "publish_date": "2018-01-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4056891 (OS Build 15063.850)",
+            "id": "4056891",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4056891",
+            "publish_date": "2018-01-04T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4053580 (OS Build 15063.786)",
+            "id": "4053580",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4053580",
+            "publish_date": "2017-12-12T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4055254 (OS Build 15063.729)",
+            "id": "4055254",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4055254",
+            "publish_date": "2017-11-22T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4048954 (OS Build 15063.726 and 15063.728)",
+            "id": "4048954",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4048954",
+            "publish_date": "2017-11-14T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4049370 (OS Build 15063.675)",
+            "id": "4049370",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4049370",
+            "publish_date": "2017-11-02T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4041676 (OS Build 15063.674)",
+            "id": "4041676",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4041676",
+            "publish_date": "2017-10-11T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4040724 (OS Build 15063.632)",
+            "id": "4040724",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4040724",
+            "publish_date": "2017-09-25T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4038788 (OS Build 15063.608)",
+            "id": "4038788",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4038788",
+            "publish_date": "2017-09-12T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4034674 (OS Build 15063.540)",
+            "id": "4034674",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4034674",
+            "publish_date": "2017-08-08T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4032188 (OS Build 15063.502)",
+            "id": "4032188",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4032188",
+            "publish_date": "2017-07-31T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4025342 (OS Build 15063.483)",
+            "id": "4025342",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4025342",
+            "publish_date": "2017-07-11T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4022716 (OS Build 15063.447)",
+            "id": "4022716",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4022716",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4022725 (OS Build 15063.413 and 15063.414)",
+            "id": "4022725",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4022725",
+            "publish_date": "2017-06-13T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4020102 (OS Build 15063.332)",
+            "id": "4020102",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4020102",
+            "publish_date": "2017-05-25T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4016871 (OS Build 15063.296 and 15063.297)",
+            "id": "4016871",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4016871",
+            "publish_date": "2017-05-09T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4016240 (OS Build 15063.250)",
+            "id": "4016240",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4016240",
+            "publish_date": "2017-04-25T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4015583 (OS Build 15063.138)",
+            "id": "4015583",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4015583",
+            "publish_date": "2017-04-11T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4016251 (OS Build 15063.13)",
+            "id": "4016251",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4016251",
+            "publish_date": "2017-04-05T00:00:00Z",
+            "type": "Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 Windows 10, version 1607 and Windows Server 2016 update history",
+            "id": "4000825",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4000825",
+            "publish_date": "",
+            "type": ""
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4343887 (OS Build 14393.2430)",
+            "id": "4343887",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4343887",
+            "publish_date": "2018-08-14T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4346877 (OS Build 14393.2396)",
+            "id": "4346877",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4346877",
+            "publish_date": "2018-07-30T00:00:00Z",
+            "type": "Alternate Cumulative"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4338822 (OS Build 14393.2395)",
+            "id": "4338822",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338822",
+            "publish_date": "2018-07-24T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4345418 (OS Build 14393.2368)",
+            "id": "4345418",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4345418",
+            "publish_date": "2018-07-16T00:00:00Z",
+            "type": "Alternate Cumulative"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4338814 (OS Build 14393.2363)",
+            "id": "4338814",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4338814",
+            "publish_date": "2018-07-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4284833 (OS Build 14393.2339)",
+            "id": "4284833",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284833",
+            "publish_date": "2018-06-21T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4284880 (OS Build 14393.2312)",
+            "id": "4284880",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4284880",
+            "publish_date": "2018-06-12T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4103720 (OS Build 14393.2273)",
+            "id": "4103720",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103720",
+            "publish_date": "2018-05-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4103723 (OS Build 14393.2248)",
+            "id": "4103723",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4103723",
+            "publish_date": "2018-05-10T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4093120 (OS Build 14393.2214)",
+            "id": "4093120",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093120",
+            "publish_date": "2018-04-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4093119 (OS Build 14393.2189)",
+            "id": "4093119",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4093119",
+            "publish_date": "2018-04-10T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4096309 (OS Build 14393.2156)",
+            "id": "4096309",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4096309",
+            "publish_date": "2018-03-29T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4088889 (OS Build 14393.2155)",
+            "id": "4088889",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088889",
+            "publish_date": "2018-03-22T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4088787 (OS Build 14393.2125 and 14393.2126)",
+            "id": "4088787",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4088787",
+            "publish_date": "2018-03-13T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4077525 (OS Build 14393.2097)",
+            "id": "4077525",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4077525",
+            "publish_date": "2018-02-22T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4074590 (OS Build 14393.2068)",
+            "id": "4074590",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4074590",
+            "publish_date": "2018-02-13T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4057142 (OS Build 14393.2034)",
+            "id": "4057142",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4057142",
+            "publish_date": "2018-01-17T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4056890 (OS Build 14393.2007)",
+            "id": "4056890",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4056890",
+            "publish_date": "2018-01-03T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4053579 (OS Build 14393.1944)",
+            "id": "4053579",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4053579",
+            "publish_date": "2017-12-12T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4051033 (OS Build 14393.1914)",
+            "id": "4051033",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4051033",
+            "publish_date": "2017-11-27T00:00:00Z",
+            "type": "Security Updates"
+        }
+    },
+    {
+        "kb": {
+            "text": "Windows 10 and Windows Server 2019 KB4048953 (OS Build 14393.1884)",
+            "id": "4048953",
+            "link": "https://www.catalog.update.microsoft.com/Search.aspx?q=KB4048953",
+            "publish_date": "2017-11-14T00:00:00Z",
+            "type": "Security Updates"
+        }
+    }
+]
